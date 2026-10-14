@@ -1,7 +1,5 @@
 # DeepDream-lab
 
-# DeepDream-lab
-
 A small, hackable implementation of **DeepDream** that works with any convolutional network from `torchvision` (VGG, GoogLeNet, ResNet, AlexNet...). It includes symmetry options for mandala-like patterns and a recursive zoom loop for fractal-style animations.
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GiuliaBrix/DeepDream-lab/blob/main/deepdream_notebook_v3.ipynb)
